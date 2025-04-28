@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "545644481741",
+    "firebase_url": "https://mobileshoptesting-b0887-default-rtdb.firebaseio.com",
+    "project_id": "mobileshoptesting-b0887",
+    "storage_bucket": "mobileshoptesting-b0887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:0bede3aa9dcadffdb06d84",
+        "android_client_info": {
+          "package_name": "com.example.growbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:a812232bf8cc2ec3b06d84",
+        "android_client_info": {
+          "package_name": "com.example.techfarming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:255cc720aee13c0cb06d84",
+        "android_client_info": {
+          "package_name": "com.example.vastigruha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:6a990d3f9fbe25a2b06d84",
+        "android_client_info": {
+          "package_name": "com.mohitladhe.vastigruha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:cce886ce0b3e623ab06d84",
+        "android_client_info": {
+          "package_name": "com.namah.festivaspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:300d045734813827b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.fragmentv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:7ea84b8a6f32d7e0b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.hackthon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:2973d1a6127f0f8eb06d84",
+        "android_client_info": {
+          "package_name": "com.namah.homeautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:649f70e5e4e78fa7b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.mobileshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:9cb394e55472ba04b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.omya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:e124bf9c9b83bbf6b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.pblfarma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:196ffb24a1700a23b06d84",
+        "android_client_info": {
+          "package_name": "com.namah.spotfixer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545644481741:android:e79a431e1897ba9eb06d84",
+        "android_client_info": {
+          "package_name": "com.tejas.cheatwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HV2ZaO3sjAalODb2t6zudAew3uSB6Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
